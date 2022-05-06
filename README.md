@@ -25,3 +25,10 @@ Currently, since project is not deployed it is only local, I start my app then i
 However, right now I'm still learning how to make calls to Spotify's API to not only return images of the playlists but I'd want it to return the tracks as well. Still a work in progress but I hope to finish this project and have everyone be able to use my application <3 
 
 Thank you for taking the time to read about my creation !!!!
+
+Here are some screenshots of Moodie Finder in action:
+
+![](images/Moodie_Finder_Webpage.png)
+![](images/Spotify_Login_Page.png)
+![](images/After_Login_Redirect_Page.png)
+![](images/Example_Search_Happy.png)
